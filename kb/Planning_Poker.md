@@ -5,12 +5,12 @@ author: jsk0lb
 anrechnung: k oder a
 ---
 
-Kurzbeschreibung zu Planning_Poker um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+In der vorliegenden Arbeit geht es um Planning Poker, eine spielerische Variante der Aufwandsschätzung im Team. 
+Die Schätzmethode wurde 2002 von James Grenning entwickelt und später von Mike Cohn in dem Buch „Agile Estimating and Planning“ populär gemacht. Ursprünglich wurde sie im Bereich Extreme Programming verwendet und ist dann für das Agile Projektmanagement übernommen worden. (Lüth, 2018)
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
+Die Vorgehensweise hierzu basiert auf der Delphi-Methode, bei der ein Schätzwert durch wiederholte Prognosen sukzessiv verbessert wird. Denn im Projektmanagement steht man immer wieder vor der Herausforderung die Dauer der Aufgaben oder den Aufwand für ein Projekt zu schätzen. Während der traditionelle Projektleiter die Schätzwerte bei einzelnen Experten einsammelt, stößt eine agile Führungskraft mittels Planning Poker einen neuen Teamprozess an und erarbeitet ferner die benötigten Aufwandsschätzungen spielerisch. (Sichart & Preußig, 2019) 
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Die Schätzkarten
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
